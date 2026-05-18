@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer | Passionate about Mobile App Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Developer;Kotlin+%7C+Java+%7C+Dart;First+Class+First+🥇;Gold+Medalist+🏆;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Developer;Dart+%7C+Java+%7C;First+Class+First+🥇;Gold+Medalist+🏆;Always+Learning+New+Technologies" />
 </p>
 
 ---
